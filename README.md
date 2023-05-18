@@ -30,3 +30,15 @@ Start the server
 ```bash
   npm run start
 ```
+
+## Filter results 
+
+Get N random stations
+
+Run the script
+
+```bash
+  node filter.js
+```
+
+And set the max number of stations to filter
